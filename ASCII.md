@@ -1,4 +1,8 @@
-# The ASCII
+# The ASCII 
+
+
+
+## ASCII Alphabet
 
 **recap**
 
@@ -75,3 +79,14 @@ Here are the uppercase and lowercase ASCII letters:
 
 These numeric values are used in various programming contexts to represent and manipulate characters.
 For example, you can use these values with programming languages like C or Python to perform character operations and conversions.
+
+
+In js :
+```javacript
+console.log(String.fromCharCode(65));
+```
+
+In python:
+```
+print(chr(65))
+```
