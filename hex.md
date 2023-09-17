@@ -6,7 +6,7 @@ In the hexadecimal system, numbers are represented using 16 distinct symbols: 0-
 - Prefix: hex values may be prefixed with '0x' e.g:"0x2a3"
 - base-16 system: hex is a base-16 numbering system using 16 symbols:
   - 0-9: to represent the values from 0 to 9.
-  - a-f: `` `` `` `` `` from 10 to 15.
+  - a-f: \`` \`` \`` \`` \`` from 10 to 15.
 - Compact Representation: Each hexadecimal digit represents 4 bits (half a byte) and is used to efficiently represent binary data.
 - Common Usage: Hexadecimal is commonly used in computing for memory addresses, binary data, and colors in graphics.
 - Conversion: Easily converted to binary and decimal; each digit corresponds to 4 bits.
